@@ -1,0 +1,1 @@
+{"tol": 0.001, "penalty": "l1", "max_iter": 1000, "early_stopping": false, "alpha": 0.0001}
