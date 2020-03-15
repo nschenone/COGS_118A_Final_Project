@@ -1,1 +1,0 @@
-{"tol": 1e-05, "solver": "lbfgs", "max_iter": 300, "hidden_layer_sizes": [100], "early_stopping": true, "activation": "tanh"}

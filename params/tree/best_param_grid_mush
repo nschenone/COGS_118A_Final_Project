@@ -1,1 +1,1 @@
-{"max_depth": 4, "criterion": "gini"}
+[{"max_depth": 4, "criterion": "gini"}, {"max_depth": 6, "criterion": "gini"}, {"max_depth": 8, "criterion": "gini"}]

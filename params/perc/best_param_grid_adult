@@ -1,0 +1,1 @@
+[{"tol": 0.001, "penalty": "l2", "max_iter": 500, "early_stopping": true, "alpha": 1e-05}, {"tol": 0.001, "penalty": "l1", "max_iter": 500, "early_stopping": false, "alpha": 1e-05}, {"tol": 0.0001, "penalty": null, "max_iter": 500, "early_stopping": true, "alpha": 0.0001}]
